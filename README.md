@@ -27,6 +27,7 @@ and effective early-stage breast cancer identification, contributing to advancem
 medical imaging and diagnosis. 
 
 #### Vision transfermer-based transfer-learning model 
+
 ![Screenshot (612)](https://github.com/Naiyani/Thermogram-based-Breast-Cancer-Detection/assets/132041238/2398234c-eb07-440f-adb8-5f640151224c)
 
 **Objective**:
