@@ -1,6 +1,6 @@
 # Thermogram-based-Breast-Cancer-Detection
 
-Thermogram based Breast Cancer Detection using Machnine Learning Techniques such as Vision Transformer, canny and gaussian edge detection technique
+Integrating Machine Learning with Vision Transformer, Canny, and Gaussian Edge Detection for Thermogram-Based Breast Cancer Detection
 
 Breast cancer is a widespread and life-threatening issue, especially in developing 
 nations where the cost of conventional screening poses a significant barrier to accessibility. 
