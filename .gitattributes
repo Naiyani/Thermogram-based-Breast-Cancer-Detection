@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
+# Set the default behavior for all files
 * text=auto
+
+# Specify files that should be treated as binary
+*.jpg binary
+*.png binary
+
+# Specify files that should be treated as text
+*.txt text
+*.csv text
+*.py text
+*.html text
+*.css text
+*.js text
+
+# Specify files that should be treated as Git LFS (Large File Storage)
+*.h5 filter=lfs diff=lfs merge=lfs -text
+
+# Add more file types as needed for your specific project
