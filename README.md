@@ -1,4 +1,4 @@
-*Thermogram-based-Breast-Cancer-Detection
+*Thermogram-based-Breast-Cancer-Detection*
 Thermogram based Breast Cancer Detection using Vision Transformer, canny and gaussian edge detection technique
 
 Breast cancer is a widespread and life-threatening issue, especially in developing 
@@ -26,7 +26,7 @@ medical imaging and diagnosis.
 **Keywords**: Breast cancer detection, thermogram images, Vision Transformers, early 
 diagnosis, medical image analysis, Edge Detection
 
-*Acknowledgements
-Download the Dataset Here https://www.kaggle.com/datasets/asdeepak/thermal-images-for-breast-cancer-diagnosis-dmrir
+*Acknowledgements*
+--->Download the Dataset Here https://www.kaggle.com/datasets/asdeepak/thermal-images-for-breast-cancer-diagnosis-dmrir
 
 
